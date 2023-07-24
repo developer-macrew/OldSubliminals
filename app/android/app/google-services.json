@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "114580263138",
+    "project_id": "subliminal-298203",
+    "storage_bucket": "subliminal-298203.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114580263138:android:64f5690252b516864c8ebb",
+        "android_client_info": {
+          "package_name": "com.example.subliminal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114580263138-rafeo8259a7t59d1jpv0cgfa4qndksu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwlyxeYEbo51Io8cc2g3XcsekgoPPmWw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114580263138-rafeo8259a7t59d1jpv0cgfa4qndksu3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "114580263138-giah64g15fmt8duqmfobr22qnhrophe6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.subliminal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
